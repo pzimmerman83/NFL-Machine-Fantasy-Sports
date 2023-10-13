@@ -1,0 +1,51 @@
+Projected Score for Ravens: 13.580728322881193
+Projected Score for Titans: 7.150660215706225
+Ravens is predicted to win.
+
+Projected Score for 49ers: 20.27935926263806
+Projected Score for Browns: 8.16053740259896
+49ers is predicted to win.
+
+Projected Score for Commanders: 12.521979708976149
+Projected Score for Falcons: 8.674708645392428
+Commanders is predicted to win.
+
+AB**Projected Score for Panthers: 8.814123491445146**AB
+Projected Score for Dolphins: 23.784620125886597
+Dolphins is predicted to win.
+
+Projected Score for Vikings: 13.100789304391132
+Projected Score for Bears: 13.268584629633892
+Bears is predicted to win
+
+Projected Score for Colts: 12.571901982235474
+Projected Score for Jaguars: 11.277211661526325
+Colts is predicted to win.
+
+Projected Score for Saints: 8.505165523278508
+Projected Score for Texans: 9.259662892407
+Texans is predicted to win.
+
+Projected Score for Seahawks: 10.678043907502598
+Projected Score for Bengals: 7.637599690110539
+Seahawks is predicted to win.
+
+Projected Score for Patriots: 6.410167791112054
+A**Projected Score for Raiders: 9.544634297284048**A
+Raiders is predicted to win.
+
+AB**Projected Score for Lions: 19.101116740007775**AB
+Projected Score for Buccaneers: 9.005946017803247
+Lions is predicted to win.
+
+Projected Score for Cardinals: 11.175425562413118
+Projected Score for Rams: 12.150898717654293
+Rams is predicted to win.
+
+Projected Score for Eagles: 12.388157682376562
+Projected Score for Jets: 6.740497206693456
+Eagles is predicted to win.
+
+Projected Score for Giants: 6.466435271683975
+AB**Projected Score for Bills: 19.11107703786409**AB
+Bills is predicted to win.
